@@ -2,7 +2,7 @@
 
 Mini-site HTML/CSS : pages HTML et CSS corrigées, mémento des commandes Linux, formulaire de contact, pages en construction.
 
-**Site en ligne :** https://VOTRE-COMPTE.github.io/mini-site-ap2/
+**Site en ligne :** https://ismaeel-mahmood.github.io/Ismaeel-Mahmood-site/
 
 ## Structure
 
